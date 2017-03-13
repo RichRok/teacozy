@@ -121,6 +121,7 @@ h2, h3, h4 {
 /* Contact Container */
 .contact {
   height: 200px;
+  margin: 0 auto;
 }
 
 /* Footer Container */
